@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=WH_ABrwduZo&t=290s
     -  sudo ./setup-aio.sh
 
 4. Follow the instructions (You'll need to enter your MNPK here)
+
 4.1 By default it will create and start container named vivo-mn-1
 
 5. The Masternode Server should be up and running. Use docker commands to check status and logs
